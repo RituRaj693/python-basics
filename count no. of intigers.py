@@ -4,4 +4,5 @@ while(n>0):
     count=count+1
     n=n//10
 print("number:",count)
+sdvdn
 
